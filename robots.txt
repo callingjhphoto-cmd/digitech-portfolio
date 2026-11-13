@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jameshphoto.com/digitech-portfolio/sitemap.xml
